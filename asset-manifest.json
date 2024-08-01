@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/codus1718/react-deploy/static/css/main.689b7bff.css",
-    "main.js": "/codus1718/react-deploy/static/js/main.e6ec81ab.js",
-    "static/js/892.1c1b15f3.chunk.js": "/codus1718/react-deploy/static/js/892.1c1b15f3.chunk.js",
-    "static/media/kakao_logo.svg": "/codus1718/react-deploy/static/media/kakao_logo.60e99555125ae4c4b8f23f6c5faee9ec.svg",
-    "index.html": "/codus1718/react-deploy/index.html",
-    "main.689b7bff.css.map": "/codus1718/react-deploy/static/css/main.689b7bff.css.map",
-    "main.e6ec81ab.js.map": "/codus1718/react-deploy/static/js/main.e6ec81ab.js.map",
-    "892.1c1b15f3.chunk.js.map": "/codus1718/react-deploy/static/js/892.1c1b15f3.chunk.js.map"
+    "main.css": "/react-deploy/static/css/main.689b7bff.css",
+    "main.js": "/react-deploy/static/js/main.78852cac.js",
+    "static/js/892.1c1b15f3.chunk.js": "/react-deploy/static/js/892.1c1b15f3.chunk.js",
+    "static/media/kakao_logo.svg": "/react-deploy/static/media/kakao_logo.60e99555125ae4c4b8f23f6c5faee9ec.svg",
+    "index.html": "/react-deploy/index.html",
+    "main.689b7bff.css.map": "/react-deploy/static/css/main.689b7bff.css.map",
+    "main.78852cac.js.map": "/react-deploy/static/js/main.78852cac.js.map",
+    "892.1c1b15f3.chunk.js.map": "/react-deploy/static/js/892.1c1b15f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.689b7bff.css",
-    "static/js/main.e6ec81ab.js"
+    "static/js/main.78852cac.js"
   ]
 }
